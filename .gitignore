@@ -36,3 +36,5 @@
 cmake-build-debug
 *.xlsx
 *.xls
+echo "cmake-build-debug" >> .gitignore 
+git rm --cached cmake-build-debug
