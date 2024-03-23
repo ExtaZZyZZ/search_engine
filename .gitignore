@@ -31,10 +31,6 @@
 *.out
 *.app
 
-# MSCode
-build
-.vscode
-.vsdx
 
 .idea
 cmake-build-debug
