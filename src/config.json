@@ -1,0 +1,12 @@
+{
+  "config": {
+    "name": "SearchEngine",
+    "version": "1.0",
+    "max_responses": 5
+  },
+  "files": [
+    "C:/Users/1testik/CLionProjects/search_engine/resources/001.txt",
+    "C:/Users/1testik/CLionProjects/search_engine/resources/002.txt",
+    "C:/Users/1testik/CLionProjects/search_engine/resources/003.txt"
+  ]
+}
